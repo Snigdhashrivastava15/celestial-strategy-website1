@@ -1,0 +1,3 @@
+[submodule "planet-nakshatra-backend"]
+	path = planet-nakshatra-backend
+	url = https://github.com/Snigdhashrivastava15/planet-nakshatra-backend.git
