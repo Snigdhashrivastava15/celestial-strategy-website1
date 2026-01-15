@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <style>
+      .swastik { fill: none; stroke: #593AA1; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+  </defs>
+  <!-- Vertical line -->
+  <line x1="16" y1="6" x2="16" y2="26" class="swastik" />
+  <!-- Horizontal line -->
+  <line x1="6" y1="16" x2="26" y2="16" class="swastik" />
+  <!-- Top arm - goes right -->
+  <line x1="16" y1="6" x2="22" y2="6" class="swastik" />
+  <!-- Right arm - goes down -->
+  <line x1="26" y1="16" x2="26" y2="22" class="swastik" />
+  <!-- Bottom arm - goes left -->
+  <line x1="16" y1="26" x2="10" y2="26" class="swastik" />
+  <!-- Left arm - goes up -->
+  <line x1="6" y1="16" x2="6" y2="10" class="swastik" />
+</svg>
